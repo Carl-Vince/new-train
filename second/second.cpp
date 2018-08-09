@@ -16,7 +16,7 @@ int main()
 	cout << "long is " << sizeof n_long << " bytes." << endl;
 	cout << "long long is " << sizeof n_llong << " bytes." << endl;
 	cout << endl;
-
+	 
 	cout << "Maximum values:" << endl;
 	cout << "int: " << n_int << endl;
 	cout << "short: " << n_short << endl;
