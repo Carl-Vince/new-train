@@ -30,7 +30,7 @@ int main()
 }*/
 
 //3.2
-// exceed.cpp -- exceeding some integer limits
+/*// exceed.cpp -- exceeding some integer limits
 #include <iostream>
 #define ZERO 0      // makes ZERO symbol for 0 value
 #include <climits>  // defines INT_MAX as largest int value
@@ -58,4 +58,4 @@ int main()
 	cout << " dollars deposited." << endl << "Lucky Sue!" << endl;
 	cin.get();
 	return 0;
-}
+}*/
